@@ -12,3 +12,5 @@ Finally, translates those n points' locations on the surface into 2D map locatio
 <hr>
 👀See an example:
 <p align = "center"><img src= "https://github.com/berkaykeskino/Plane-Route/blob/main/Photos/example.PNG?raw=true" width= 300px height=auto></p>
+
+🔗Note that you should install Pygame to run the code.
